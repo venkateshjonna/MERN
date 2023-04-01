@@ -4,11 +4,11 @@
     "id": 2100032371,
     "avatar_url": "https://avatars.githubusercontent.com/u/1?v=4",
     "url": "https://api.github.com/users/mojombo",
-    "DAA" :97,
+    "DAA" :92,
     "MERN" :97,
-    "PFSD" :97,
+    "PFSD" :78,
     "ATFL" :97,
-    "OS" :97
+    "OS" :88
   },
   {
     "login": "pjhyett",
@@ -17,9 +17,74 @@
     "avatar_url": "https://avatars.githubusercontent.com/u/3?v=4",
     "url": "https://api.github.com/users/pjhyett",
     "DAA" :97,
-    "MERN" :97,
-    "PFSD" :97,
-    "ATFL" :97,
-    "OS" :97
+    "MERN" :78,
+    "PFSD" :89,
+    "ATFL" :67,
+    "OS" :55
+  },
+  {
+    "login": "pjhyett",
+    "id": 2100032373,
+    "node_id": "MDQ6VXNlcjM=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/3?v=4",
+    "url": "https://api.github.com/users/pjhyett",
+     "DAA" :94,
+    "MERN" :67,
+    "PFSD" :76,
+    "ATFL" :56,
+    "OS" :94
+   
+  },
+  {
+    "login": "wycats",
+    "id": 2100032374,
+    "node_id": "MDQ6VXNlcjQ=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4?v=4",
+    "url": "https://api.github.com/users/wycats",
+     "DAA" :97,
+    "MERN" :94,
+    "PFSD" :66,
+    "ATFL" :74,
+    "OS" :91
+    
+  },
+  {
+    "login": "ezmobius",
+    "id": 2100032375,
+    "node_id": "MDQ6VXNlcjU=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/5?v=4",
+    "url": "https://api.github.com/users/ezmobius",
+     "DAA" :98,
+    "MERN" :94,
+    "PFSD" :56,
+    "ATFL" :87,
+    "OS" :78
+    
+  },
+  {
+    "login": "ivey",
+    "id": 2100032376,
+    "node_id": "MDQ6VXNlcjY=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/6?v=4",
+    "url": "https://api.github.com/users/ivey",
+     "DAA" :78,
+    "MERN" :57,
+    "PFSD" :89,
+    "ATFL" :76,
+    "OS" :56
+    
+  },
+  {
+    "login": "evanphx",
+    "id": 2100032377,
+    "node_id": "MDQ6VXNlcjc=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7?v=4",
+    "url": "https://api.github.com/users/evanphx",
+     "DAA" :88,
+    "MERN" :67,
+    "PFSD" :45,
+    "ATFL" :67,
+    "OS" :82
+    
   }
 ]
