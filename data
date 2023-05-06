@@ -87,30 +87,4 @@
     "OS" :82
     
   }
-  {
-    "login": "Kedhar",
-    "id": 2022,
-    "node_id": "MDQ6VXNlcjc=",
-    "avatar_url": "https://avatars.githubusercontent.com/u/7?v=4",
-    "url": "https://api.github.com/users/evanphx",
-     "DAA" :88,
-    "MERN" :67,
-    "PFSD" :45,
-    "ATFL" :67,
-    "OS" :82
-    
-  }
-  {
-    "login": "Jagedesh",
-    "id": 2022,
-    "node_id": "MDQ6VXNlcjc=",
-    "avatar_url": "https://avatars.githubusercontent.com/u/7?v=4",
-    "url": "https://api.github.com/users/evanphx",
-     "DAA" :88,
-    "MERN" :67,
-    "PFSD" :45,
-    "ATFL" :67,
-    "OS" :82
-    
-  }
 ]
